@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body {
+	opacity: 1 !important;
+	font-family: roboto;
+	
+}	
+
+html {
+	
+	background-image: url('imageedit_1_3275571165.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+
+.opaque {
+	height: 200px;
+    width: 400px;
+    background: white;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+	text-align: center;
+	background-color: #ffcb7d;
+}
