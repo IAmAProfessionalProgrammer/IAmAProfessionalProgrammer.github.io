@@ -3,6 +3,8 @@
 body {
 	opacity: 1 !important;
 	font-family: roboto;
+	margin:0;
+	padding: 0;
 	
 }	
 
@@ -11,6 +13,7 @@ html {
 	background-image: url('imageedit_1_3275571165.png');
 	background-repeat: no-repeat;
 	background-size: cover;
+	
 	
 }
 
@@ -28,4 +31,13 @@ html {
     margin-left: -200px;
 	text-align: center;
 	background-color: #ffcb7d;
+}
+
+header {
+	background-color: #ffcb7d;
+	padding: 2.5rem;
+	font-size:3rem;
+	
+	
+	
 }
